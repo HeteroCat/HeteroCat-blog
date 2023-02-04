@@ -1,2 +1,2 @@
 # HeteroCat-blog
-这是一个尝试。
+欢迎━(*｀∀´*)ノ亻!来到我的博客https://juejin.cn/user/2221479480010573
