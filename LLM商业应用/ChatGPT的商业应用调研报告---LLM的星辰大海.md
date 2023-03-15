@@ -17,6 +17,7 @@ ChatGPT的出现受影响最大的领域是什么？毫无疑问是搜索引擎�
 然而，里面有一个巨大的错误：回答里提到“ JWST 拍摄到了太阳系外行星的第一张照片”，也就是下图灰线部分。然而，事实上，第一张系外行星照片是由欧洲南方天文台的Very Large Telescope (VLT) 在 2004 年拍摄的。
 
 ![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fdbc10c9716c430b90c3d14d30012078~tplv-k3u1fbpfcp-watermark.image?)
+
 最后我们来看看国内：百度计划于3月16日14时在北京总部召开新闻发布会，主题围绕文心一言。百度创始人、董事长兼首席执行官李彦宏，百度首席技术官王海峰将出席。百度将于北京时间2月16日下午2点在北京公司总部召开ERNIE Bot新闻发布会。联合创始人、董事长兼首席执行官李彦宏和首席技术官王海峰将出席新闻发布会。
 
 我们只能敬请期待了。
@@ -60,11 +61,14 @@ ChatGPT的出现受影响最大的领域是什么？毫无疑问是搜索引擎�
 在Bloc的游戏Mod中，玩家扮演一个中世纪的骑士（左），在路上遇到一个NPC村民（右）介绍自己的职业是铁匠。
 
 ![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c50508ec1d1e4bca9fbb273721ae73ac~tplv-k3u1fbpfcp-watermark.image?)
+
 玩家开始提问：既然你是铁匠，可以为我打造一把剑吗？
 
 ![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c95e7ba64656447e95cc64d5b12e9207~tplv-k3u1fbpfcp-watermark.image?)
+
 铁匠NPC回答没问题，介绍了不同用料的成本并询问玩家的预算和要求。
 ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/617fa5d784774365902826c4645b37fa~tplv-k3u1fbpfcp-watermark.image?)
+
 随后玩家问了一个开放的问题：你还为这片土地上的哪些贵族铸过剑？结果铁匠NPC丛容应对，有理有据，并且不忘继续追问玩家对剑的种类的需求。
 
 ![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5aabb6f013ac400fb72ebff4874e3a76~tplv-k3u1fbpfcp-watermark.image?)
